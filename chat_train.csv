@@ -1,0 +1,607 @@
+qn,intent
+hello,greeting_1
+hi,greeting_1
+hey,greeting_1
+hai,greeting_1
+yo,greeting_1
+you there!,greeting_1
+sup,greeting_1
+dude,greeting_1
+bro,greeting_1
+buddy,greeting_1
+good morning,greeting_2
+good afternoon,greeting_2
+good evening,greeting_2
+good day,greeting_2
+how are you?,greeting_3
+how do you do?,greeting_3
+howdy?,greeting_3
+thanks,greeting_4
+thank you,greeting_4
+name,name
+your name,name
+your name?,name
+what is your name,name
+whom am I speaking to?,name
+me your name?,name
+may I know name?,name
+may i know with who i am chatting with,name
+tell me about you?,about_me
+who are you?,about_me
+what are you?,about_me
+explain about yourself?,about_me
+who is your master?,developer
+developer,developer
+who built you?,developer
+built by?,developer
+who developed you?,developer
+developed by?,developer
+who created you,developer
+your creator,developer
+creator,developer
+what is bigdata,intro
+What is data science,intro
+I am here to enquire about data science,intro
+about data science,intro
+big data analytics,intro
+interested in doing data science and machine learning,intro
+I want to learn data science,intro
+I want informtion about bigdata,intro
+I need a course,intro
+I just finished my engineering. I want to learn data science.,intro
+I want to join a course,intro
+I am here to enquire about big data,intro
+I want to learn big data,intro
+I want informtion about data science,intro
+I am interested in Big Data.  How can you help me?,intro
+can you help me finding program in big data?,intro
+can you assist me with big data programs,intro
+"hey, I am interested in your program?",intro
+Tell me about the courses?,courses
+What are all the courses your offering?,courses
+May I know about the course?,courses
+what do you teach,courses
+about the types of courses?,courses
+courses you offer?,courses
+May I know about the available courses?,courses
+courses are available?,courses
+kind of courses are you offering in your institute?,courses
+May I know the courses list?,courses
+Types of courses you offer?,courses
+kind of programs you have?,courses
+Types of programs?,courses
+are all the programs you handle?,courses
+courses do you teach?,courses
+types of courses do you offer?,courses
+How many courses are available?,courses
+All courses?,courses
+about your courses?,courses
+I would like to know the courses you offer?,courses
+Please let me know about the courses you provide?,courses
+Courses you offer?,courses
+Courses you provide?,courses
+Courses available?,courses
+Courses you teach?,courses
+Courses you have?,courses
+Kind of courses do you have?,courses
+May I get the list of courses you offer?,courses
+are all the list of courses you have?,courses
+Give me the list of programs you offer?,courses
+List of available course?,courses
+List of course you provide?,courses
+List of programs you handle?,courses
+Can I have the list of course you have?,courses
+Could you please provide me the list of course you have?,courses
+Provide the course list?,courses
+Can you provide the course list?,courses
+Different types of courses?,courses
+Variety of courses you have?,courses
+the training programs you have?,courses
+are all the variety of courses you have?,courses
+Variety of programs you offer?,courses
+all do you offer?,courses
+Programs?,courses
+Courses?,courses
+List the types of programs/courses?,courses
+Can you provide me list of courses?,courses
+provide me the list of course you have?,courses
+Available courses?,courses
+Print all courses?,courses
+Courses offered?,courses
+what is duration,courses_duration
+duration of courses,courses_duration
+how many hours the courses are?,courses_duration
+how long are the courses?,courses_duration
+what is the duration for data science,courses_duration
+the course duration?,courses_duration
+duration of all the courses,courses_duration
+what is certificate,ecp
+about certificate program?,ecp
+Provide the syllabus for certificate program?,ecp
+May I know the details about certificate?,ecp
+Can I have the curriculum for certificate?,ecp
+do you cover in certificate?,ecp
+the syllabus for certificate?,ecp
+the course content for certificate?,ecp
+does certificate course covers?,ecp
+does the certificate program cover?,ecp
+certificate program,ecp
+details of certificate program,ecp
+scope of certificate program?,ecp_detail
+why certificate program,ecp_detail
+the benefit of certificate program,ecp_detail
+the benefits of certificate course,ecp_detail
+the outcome of certificate program,ecp_detail
+the outcome of certificate course,ecp_detail
+scope of certificate course,ecp_detail
+duration certificate course,ecp_duration
+duration of certificate course,ecp_duration
+diploma course duration,ecp_duration
+duration of certificate program,ecp_duration
+how many hours is certificate program,ecp_duration
+certificate course duration,ecp_duration
+Number of hours of certificate course,ecp_duration
+duration of certificate course,ecp_duration
+about ep diploma?,epd
+what is diploma?,epd
+May I know about ep diploma?,epd
+Explain me about ep diploma?,epd
+Syllabus for ep diploma?,epd
+the syllabus for ep diploma?,epd
+Can know the curriculum for ep diploma?,epd
+the structure of diploma ep diploma?,epd
+details of diploma,epd
+Can I get the details for ep diploma?,epd
+duration diploma course,epd_duration
+duration of diploma course,epd_duration
+diploma course duration,epd_duration
+may i know the timings for the EP program,epd_duration
+Duration for ep diploma?,epd_duration
+How many hours is diploma program?,epd_duration
+ep diploma duration,epd_duration
+how long it take to compelete my diploma program,epd_duration
+the duration of diploma course,epd_duration
+Benefits of diploma program?,epd_details
+Outcome of diploma program?,epd_details
+Why diploma?,epd_details
+scope of diploma,epd_details
+benefits diploma course,epd_details
+what is capsule course?,cc
+what is meant by capsule course,cc
+Let me know the details for capsule course?,cc
+Provide me the information about capsule course?,cc
+capsule course?,cc
+May I know about capsule course?,cc
+Help me with knowing about capsule course?,cc
+meant by capsule course,cc
+Provide the details for capsule course?,cc
+Please explain about capsule course?,cc
+duration capsule course,cc_duration
+duration of capsule course,cc_duration
+capsule course duration,cc_duration
+duration of capsule program,cc_duration
+Duration for capsule course?,cc_duration
+how long it take to compelete my  capsule course,cc_duration
+How many hours is capsule course?,cc_duration
+Why capsule course?,cc_details
+Outcome of capsule course?,cc_details
+Benefits of capsule course?,cc_details
+individual course,ic
+what is individual course?,ic
+May I know about the individual course?,ic
+about the individual course?,ic
+Provide me the list of individual course?,ic
+Provide me the list of individual courses?,ic
+individual courses offered?,ic
+list of individual courses offered,ic
+list of individual courses ,ic
+duration individual course,ic_duration
+duration of individual course,ic_duration
+individual course duration,ic_duration
+Duration for individual course?,ic_duration
+How many hours is individual courses?,ic_duration
+individual course duration,ic_duration
+Will you teach machine learning?,each_ic
+Will you teach linear regression?,each_ic
+Will you teach hadoop?,each_ic
+Will you teach spark?,each_ic
+Will you teach predictive analysis?,each_ic
+Will you teach predictive analytics?,each_ic
+Will you teach python?,each_ic
+How experienced trainers you have?,faculty
+trainers,faculty
+who teaches data science,faculty_ml_name
+may i know the faculty profile,faculty
+who teaches the course,faculty
+faculty,faculty
+about the faculty pool?,faculty
+who are the faculty,faculty
+who are your faculty,faculty
+what is the profile of faculty,faculty
+can you please share your faculy profile,faculty
+who are the trainers,faculty
+tell me about your faculty,faculty
+May I know about the faculties?,faculty
+Can I know the trainers profile?,faculty
+experience of your trainer,faculty_exp
+whether they have real time experience or not,faculty_exp
+experience of the faculty ,faculty_exp
+faculty experience,faculty_exp
+experience of the trainer,faculty_exp
+faculty profile,faculty_exp
+experience of your faculty ,faculty_exp
+experience of trainer,faculty_exp
+experience of faculty ,faculty_exp
+trainer for lpredictive analytics?,faculty_ml_name
+trainer for machine learning?,faculty_ml_name
+who will  teach machine learning and predictive analysis,faculty_ml_name
+faculty for machine learning?,faculty_ml_name
+who teaches machine learning,faculty_ml_name
+train me machine learining,faculty_ml_name
+faculty for machine learning?,faculty_ml_name
+trainer for sas?,faculty_sas
+train me sas,faculty_sas
+who teaches sas,faculty_sas
+faculty for sas?,faculty_sas
+trainer for statistics?,faculty_stats
+train me statistics,faculty_stats
+who teaches statistics,faculty_stats
+faculty for statistics?,faculty_stats
+faculty for python?,faculty_lang
+who teaches python,faculty_lang
+train me python,faculty_lang
+trainer for python?,faculty_lang
+trainer for r program?,faculty_lang
+who teaches r,faculty_lang
+trainer for r program language,faculty_lang
+who will train me r,faculty_lang
+trainer for r language?,faculty_lang
+trainer for r,faculty_lang
+the faculty for r?,faculty_lang
+trainer for rdbms,factulty_db
+who teaches rdbms,factulty_db
+faculty for rdbms,factulty_db
+faculty for mongodb,factulty_db
+who teaches mongodb,factulty_db
+train me db,factulty_db
+train me mongodb,factulty_db
+train me database,factulty_db
+trainer for mongo db,factulty_db
+faculty for mongo database,factulty_db
+who teaches database,factulty_db
+trainer for database,factulty_db
+trainer for iot,faculty_iot
+train me iot,faculty_iot
+who teaches iot,faculty_iot
+faculty for iot,faculty_iot
+trainer for hadoop,faculty_hadoop
+who teaches hadoop,faculty_hadoop
+faculty for hadoop,faculty_hadoop
+trainer for spark,faculty_hadoop
+who teaches spark,faculty_hadoop
+faculty for spark,faculty_hadoop
+train me spark,faculty_hadoop
+train me hadoop,faculty_hadoop
+train me big data,faculty_hadoop
+trainer for big data,faculty_hadoop
+who teaches big data,faculty_hadoop
+faculty for big data,faculty_hadoop
+trainer for tableau,faculty_tab
+who teaches tableau,faculty_tab
+faculty for tableau,faculty_tab
+Who will recruit me?,placement
+job,placement
+placement process,placement
+What about placements?,placement
+do you assure jobs,placement
+placement,placement
+will I get a job,placement
+How can you ensure my job after doing the course,placement
+do you give placement guarantee,placement
+do you provide placement,placement
+May I know about placement?,placement
+about the job opportunity?,placement
+will you help me in getting job,placement
+will you help in jobs,placement
+Will I get a job at the end of course?,placement
+get a job,placement
+Will you guarantee me a job?,placement
+Do you promise placements?,placement
+List of students got placed?,placed_tie_up
+employers who have recruited your candidates?,placed_tie_up
+What are the names of the employers who have recruited your candidates?,placed_tie_up
+where are your alumni working,placed_tie_up
+where are your students working,placed_tie_up
+Do you have any tie up with companies?,placed_tie_up
+What are all the companies that have taken your trainees? ,placed_tie_up
+Who I should talk with?,contacts
+May I have your contact number?,contacts
+I want to talk with someone in your office,contacts
+I want to talk with your hr,contacts
+Who is the contact person?,contacts
+Can I have the counsellor number?,contacts
+how can I reach you,contacts
+To whom I should contact for joining?,contacts
+the contact number?,contacts
+Can I have your email address?,contacts
+when is the next batch i can join,contacts
+next batch,contacts
+when is the next batch,contacts
+Please provide me the email id?,contacts
+can i pay fees in cash?,fee
+fee,fee
+course fee,fee
+course price,fee
+fees,fee
+may I know about the fees for courses,fee
+may I know about the fees ,fee
+may I know  the fee ,fee
+what is the course fee,fee
+what is the fee,fee
+what is the price,fee
+how much will be ,fee
+how much,fee
+why fees is higher,fee_comp
+why fee higher,fee_comp
+Why your fees are high in comparison to some other institutes?,fee_comp
+fee is higher comparing other institute,fee_comp
+location,location
+located,location
+where you are located,location
+your location,location
+where should I come,location
+where it is located,location
+where is your center,location
+where are you?,location
+where is your institute,location
+what are you doing?,ioa
+what is ioa?,ioa
+who is institute of analytics?,ioa
+ioa,ioa
+institute of analytics,ioa
+about your company,ioa
+about your company,ioa
+about your institute,ioa
+Who are your clients?,ioa_client
+tell me about your clients,ioa_client
+clients,ioa_client
+timings,office_time
+is the office open today,office_time
+visit the office today,office_time
+May I know the timings?,office_time
+Are the timings fixed?,time_flex
+can the course timings be changed ,time_flex
+are the course timings flexible,time_flex
+weekend classes available,course_time
+weekend classes available,course_time
+are the timings flexible,time_flex
+can you change the course timings based on requirements,time_flex
+course timing,course_time
+whether weekday course available,course_time
+whether weekend course available,course_time
+the course timings,course_time
+may I know the course timings?,course_time
+office timing,office_time
+at what time you will be open,office_time
+when can I meet you,office_time
+your office timings?,office_time
+male or female,gender
+are you male?,gender
+are you female,gender
+are you a bot?,gender
+Maximum number of students for a batch?,student_no
+Can I attend through online?,batch_mode
+When does the next batch starts?,batch detail
+ the strength of a batch?,student_no
+how many of the students will be in a batch,student_no
+May I know the batch size?,student_no
+Will I be able to learn machine learning?,basic_req
+Benefits of data science?,datascience
+Who has got better job prospects...data science or big data technology,datascience
+Scope of data science?,datascience
+ai?,ai
+artificial intelligence?,ai
+eligible for the course,basic_req
+am I eligible for the course,basic_req
+am from non it background can I do this course,basic_req
+I am from non it backgroud am I eligible,basic_req
+am from non it background,basic_req
+eligible,basic_req
+I am a engineer can I do this course,basic_req
+If I dont have mathematical background can I learn data science?,basic_req
+the salary that we can expect on taking the course?,salary_range
+what would be my salary if I finish this course,salary_range
+my salary after completing the course,salary_range
+my salary ,salary_range
+how much will I earn after completing the course,salary_range
+the salary range of data scientist?,salary_range
+Will there be practical support?,practical_project_sup
+what types of projects you give for your students.,practical_project_sup
+do you offer hands on training,practical_project_sup
+Will I do a project at the end of course?,practical_project_sup
+Do I need pre-coding experience?,basic_req
+Will there be exam at the end of program?,exams
+refund,refund
+If I discontinue will I get refund of fees paid.,refund
+Will my money be refunded?,refund
+What about the classroom facilities? ,classroom
+Why price is higher comparing with another institue?,price_diff
+Will you provide laptop,provide_system
+provide laptop,provide_system
+will you provide computer,provide_system
+provide computer,provide_system
+provide system,provide_system
+Will you provide system?,provide_system
+What are the pre-requisites to join?,basic_req
+will I be able to understand?,basic_req
+do you teach online,batch_mode
+do you have online course,batch_mode
+recorded or interactive live class?,batch_mode
+Can I pay in installments,insta_pay
+can I make half payment,insta_pay
+can I pay fee in installments,insta_pay
+Can I pay half the fee at the end of the course?,insta_pay
+are you into consulting services?,consulting_work
+consulting work,consulting_work
+how about taking a consulting work?,consulting_work
+Do you undertake consulting work?,consulting_work
+I have a data can you help me,project_work
+project work,project_work
+Will you undertake any project work?,project_work
+do you undertake project works?,project_work
+demo session?,demo
+Can I have a demo session?,demo
+Difference between ml and pa?,pa_vs_ml
+Difference between pa and ml?,pa_vs_ml
+Difference between predictive analytics and machine learning?,pa_vs_ml
+Difference between dl and ml?,ml_vs_dl
+Difference between ml and dl?,ml_vs_dl
+Difference between machine learning and deep learning?,ml_vs_dl
+I am not from a cs background will I be able to understand? ,basic_req
+Why should I join IOA?,why_ioa
+How do I verify that yours is the best institute,why_ioa
+why are you,why_ioa
+why ioa?,why_ioa
+will you reschedule ,missed_sessions
+reschedule class,missed_sessions
+suppose I miss any class,missed_sessions
+What if I miss any session?,missed_sessions
+What happens if I have to take a break because of pressing office work/ personal work?,program_break
+what if I take a break? ,program_break
+suggest course,suggest_course
+Can you suggest the right program?,suggest_course
+for me numbers are allergy. I am a computer science student. What course do you suggest?,suggest_course
+I need a career advise regarding data analytics,suggest_course
+you have listed so many courses it is confusing can you suggest,suggest_course
+the right course for me?,suggest_course
+Which course will you suggest me?,suggest_course
+selecting right course,course_selection
+pick right course,course_selection
+how to pick right course?,course_selection
+for me numbers are frightening. I do not know coding. Can I do this program?,basic_req
+How do I select the right course?,course_selection
+how to select the right course?,course_selection
+online or live class,batch_mode
+can I attend the class from my place,batch_mode
+Can I attend the class through online?,batch_mode
+online class?,batch_mode
+If it is online class recorded or interactive live class?,batch_mode
+why should I learn python?,python
+python,python
+Why python?,python
+why should I learn r?,r
+Why R?,r
+why should I learn sas?,sas
+sas,sas
+Why Sas,sas
+why should I learn data science?,intro
+data science,intro
+why data science?,intro
+why should I learn iot?,iot
+iot,iot
+why iot?,iot
+why should I learn tableau,tableau
+tableau,tableau
+why tableau,tableau
+why data base,db
+database,db
+why should I learn data base,db
+why mongo db,db
+mongo db,db
+rdbms,db
+why rdbms,db
+why should I learn predictive analytics,pa
+why predictive analysis,pa
+predictive analytics,pa
+why predictive analytics,pa
+why pa,pa
+why should I learn machine learning,ml
+machine learning,ml
+why machine learning,ml
+why should I learn ml,ml
+why ml,ml
+why should I learn hadoop,hadoop
+hadoop,hadoop
+why hadoop,hadoop
+why should I learn big data,hadoop
+big data,intro
+why big data,hadoop
+why should I learn spark,hadoop
+spark,hadoop
+why spark,hadoop
+have branches in bangalore,branches
+do you have other branches,branches
+other branches,branches
+in how many places do you have branches,branches
+have branches in,branches
+do you have any branches,branches
+do you have branches,branches
+do you have any other brances,branches
+do you provide certificate,certificate
+is your certificate registered,certificate
+value of your certificate,certificate
+certificate after the completion of course,certificate
+what about the certificate,certificate
+what about global recognition,certificate
+where is your certificate recognized,certificate
+is your certificate recognized,certificate
+do you teach python,python
+do you teach r,r
+do you teach sas,sas
+do you teach tableau,tableau
+do you teach iot,iot
+do you teach internet of things,iot
+you provide short term course,each_ic
+short term course,each_ic
+do you teach hadoop,hadoop
+do you teach machine learning,ml 
+I want to learn python,python
+I want to learn r,r
+I want to learn sas,sas
+I want to learn iot,iot
+I want to learn internet of things,iot
+I want to learn machine learning,ml
+I want to learn hadoop,hadoop
+iot details,iot
+python details,python
+r details,r
+machine learning details,ml
+sas details,sas
+I want a course in python,python
+I want a course in R,r
+I want a course in sas,sas
+I want a course in tableau,tableau
+Does your IOT program help to apply in Industrial IOT applications?,iot
+I want a course in iot,iot
+I want a course in machine leaning,ml
+I want a course in internet of things,iot
+I want a course in hadoop,hadoop
+whether you are handling projects,project_work
+will you help me to get a job in usa,counsel
+I want a job in USA? what is your reply on this,counsel
+will I get a job in usa,counsel
+how will I get a job in usa,counsel
+in usa,counsel
+I am holding H1B Visa? Is there a possibility for me to get a job in USA,counsel
+Will you help in getting me a USA Visa,counsel
+international recognition ?,certificate
+Can I also teach in your institute?,counsel
+will I get loan,counsel
+can I contact any of your trainee who is already palced,counsel
+may i know the fee structure for EP certificate,fee
+Please give your US office no.,counsel
+Can I be an intern...I have learnt R and  Predictive Analytics ,counsel
+do you provide internship,counsel
+what about internship,counsel
+internship,counsel
+will you pay during internship,counsel
+What is the difference between data analytics and business analytics,counsel
+can you give me the contact details of your faculty,counsel
+do you teach artificial intelligence,counsel
+do you teach artificial intelligence? I am a mechanical engineering graduate and I am interested in robotics,counsel
+is your institute part of any university,counsel
+I am in us please send me fees details,fee
+"I am in the us, where do you conduct classes",batch_mode
+what is your usp,counsel
+do I need coding knowledge to do this program,course_selection
+is the diploma recognized,certificate
